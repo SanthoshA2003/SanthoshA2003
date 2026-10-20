@@ -31,6 +31,22 @@ I'm a Software Developer passionate about building responsive, user-friendly web
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </p>
 
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SanthoshA2003&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanthoshA2003&layout=compact&theme=tokyonight&hide_border=true" alt="Top Programming Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SanthoshA2003&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
+</p>
+
 
 *Build. Learn. Improve. Repeat.*
 
