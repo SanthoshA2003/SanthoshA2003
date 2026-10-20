@@ -30,24 +30,24 @@ I'm a Software Developer passionate about building responsive, user-friendly web
 </td>
 <td width="33%" valign="top" align="center">
 
+
 ## 🔗 Connect with Me
-<img src="./assets/developer.png" width="280" alt="Developer illustration"/>
 
-<br/>
+<p align="center">
+  <img src="./assets/developer.png" width="240" alt="Developer illustration"/>
+</p>
 
-<a href="https://www.linkedin.com/in/santhosh-alaguvel/">
-<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-
-<br/><br/>
-
-<a href="https://github.com/SanthoshA2003">
-<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-
-<br/>
-
-**Build. Learn. Improve.**
+<p align="center">
+  <a href="https://www.linkedin.com/in/santhosh-alaguvel/">
+    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <br/>
+  <a href="https://github.com/SanthoshA2003">
+    <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <br/>
+  <strong>Build. Learn. Improve.</strong>
+</p>
 
 </td>
 </tr>
