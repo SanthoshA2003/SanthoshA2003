@@ -28,35 +28,7 @@ I'm a Software Developer passionate about building responsive, user-friendly web
 - 📚 **Currently focused on:** Java, OOP, SQL, C# and problem-solving
 
 </td>
-<td width="33%" valign="top" align="center">
 
-## 🔗 Connect with Me
-
-<!-- Upload a developer illustration to your repository at assets/developer.png -->
-
-<img src="assets/developer.png" width="240" alt="Developer illustration" />
-
-<br/>
-
-<a href="https://www.linkedin.com/in/santhosh-alaguvel/">
-<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-
-<br/><br/>
-
-<a href="https://github.com/SanthoshA2003">
-<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-
-<br/>
-
-**Build. Learn. Improve.**
-
-</td>
-</tr>
-</table>
-
----
 
 ## ⚙️ Tech Stack
 
