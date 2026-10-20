@@ -34,7 +34,7 @@ I'm a Software Developer passionate about building responsive, user-friendly web
 ## 🔗 Connect with Me
 
 <p align="center">
-  <img src="./assets/developer.png" width="240" alt="Developer illustration"/>
+  <img src="./assets/developer.png" width="280" alt="Developer illustration"/>
 </p>
 
 <p align="center">
