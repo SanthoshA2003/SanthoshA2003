@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Santhosh A 👋
 
-<!--
-**SanthoshA2003/SanthoshA2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Software Developer | Java | SQL | React.js
 
-Here are some ideas to get you started:
+I'm a Software Developer passionate about building responsive, user-friendly web applications and solving real-world problems through technology.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 **Languages:** Java, JavaScript, SQL
+- 🌐 **Frontend:** React.js, HTML5, CSS3, Bootstrap
+- 🔌 **API Integration:** REST APIs, JSON
+- 🗄️ **Database:** MySQL, PostgreSQL
+- 🛠️ **Tools:** Git, GitHub, VS Code, Eclipse
+- 🚀 **Projects:** MyMentor, Digitracker, and web application development
+- 📚 **Currently focused on:** Strengthening Java, OOP, SQL, and problem-solving skills
+
+### Connect with Me
+
+- LinkedIn: https://www.linkedin.com/in/santhosh-alaguvel/
+- GitHub: https://github.com/SanthoshA2003
+
+*Build. Learn. Improve. Repeat.*
