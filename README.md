@@ -31,7 +31,7 @@ I'm a Software Developer passionate about building responsive, user-friendly web
 <td width="33%" valign="top" align="center">
 
 ## 🔗 Connect with Me
-
+<img src="./assets/developer.png" width="280" alt="Developer illustration"/>
 
 <br/>
 
