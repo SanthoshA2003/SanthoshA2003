@@ -1,14 +1,19 @@
+
+<div align="center">
+
 # 👋 Hi, I'm <span style="color:#38bdf8">Santhosh A</span>
 
 ### Software Developer | Java | SQL | React.js
 
 Building responsive web applications and solving real-world problems through technology.
 
+</div>
+
 ---
 
 <table>
 <tr>
-<td width="68%" valign="top">
+<td width="67%" valign="top">
 
 ## 💻 About Me
 
@@ -20,24 +25,30 @@ I'm a Software Developer passionate about building responsive, user-friendly web
 - 🗄️ **Database:** MySQL
 - 🛠️ **Tools:** Git, GitHub, VS Code, Eclipse
 - 🚀 **Projects:** MyMentor, Digitracker, QLess, LMS
-- 📚 **Currently Learning:** C#, .NET, and strengthening Java, OOP, SQL, and problem-solving skills
+- 📚 **Currently focused on:** Java, OOP, SQL, C# and problem-solving
 
 </td>
-<td width="32%" valign="top" align="center">
+<td width="33%" valign="top" align="center">
 
 ## 🔗 Connect with Me
 
+<!-- Upload a developer illustration to your repository at assets/developer.png -->
+
+<img src="assets/developer.png" width="240" alt="Developer illustration" />
+
+<br/>
+
 <a href="https://www.linkedin.com/in/santhosh-alaguvel/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
 <br/><br/>
 
 <a href="https://github.com/SanthoshA2003">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
-<br/><br/>
+<br/>
 
 **Build. Learn. Improve.**
 
@@ -51,22 +62,21 @@ I'm a Software Developer passionate about building responsive, user-friendly web
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
-<img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 
 </div>
 
 ---
 
-## 📂 Featured Projects
+## 📂 Projects
 
 <table>
 <tr>
@@ -80,6 +90,7 @@ A learning platform designed to help students develop technical skills through s
 
 `React.js` `JavaScript` `REST API` `SQL`
 
+
 </td>
 <td width="33%" valign="top">
 
@@ -91,6 +102,7 @@ A web application focused on project tracking, material management, and workflow
 
 `React.js` `JavaScript` `REST API` `Bootstrap`
 
+
 </td>
 <td width="33%" valign="top">
 
@@ -101,6 +113,7 @@ A queue management system designed to reduce waiting time and improve customer e
 **Technologies**
 
 `React.js` `JavaScript` `REST API` `CSS3`
+
 
 </td>
 </tr>
@@ -145,14 +158,24 @@ Write clean, maintainable code and solve practical programming challenges.
 
 ---
 
-## 📚 Currently Learning
+<table>
+<tr>
+<td width="34%" valign="top">
 
-- 🔄 C# programming and syntax
-- 🔄 .NET fundamentals and application development
-- 🔄 Object-oriented programming concepts
-- 🔄 Advanced Java and SQL
-- 🔄 Building scalable web applications
-- 🔄 Problem-solving and coding challenges
+## 📊 Currently Learning
+
+- 🚀 Advanced C# concepts, asynchronous programming
+- ⚙️ ASP.NET Core Web API development and dependency injection
+- 🔐 Authentication, authorization, JWT, and secure API design
+- 🗄️ Advanced SQL queries, joins, indexing, and query optimization
+- 🧩 Advanced Java, OOP, Collections Framework, and exception handling
+- 🏗️ Clean Architecture, SOLID principles, and design patterns
+- ⚡ React performance optimization, reusable components, and state management
+- 🧪 Unit testing, debugging, and writing maintainable code
+- 💻 Data structures, algorithms, and advanced problem-solving
+- 
+</td>
+<td width="33%" valign="top">
 
 ## 🚩 Goals
 
@@ -160,29 +183,37 @@ Write clean, maintainable code and solve practical programming challenges.
 - 🚀 Contribute to real-world projects
 - 📚 Learn and apply modern technologies
 - 💡 Build useful, user-focused applications
-- 🧩 Improve my skills in Java, C#, and .NET development
+- 🌱 Grow in my software development career
+
+</td>
+<td width="33%" valign="top">
 
 ## 🌱 Beyond Tech
 
 - 🤝 Collaborate with developers and teams
-- 📖 Explore new technologies
+- 🧭 Explore new technologies
+- 📖 Learn and share knowledge
 - 💬 Improve communication skills
 - ⭐ Stay consistent and keep learning
+
+</td>
+</tr>
+</table>
 
 ---
 
 <div align="center">
 
-### 💙 *Build. Learn. Improve. Repeat.*
+### 💙 <i>Build. Learn. Improve. Repeat.</i>
 
 **Thanks for visiting my profile!**
 
 <a href="https://www.linkedin.com/in/santhosh-alaguvel/">
-<img src="https://img.shields.io/badge/Connect_on-LinkedIn-0A66C2?style=flat-square&logo=linkedin" alt="Connect on LinkedIn" />
+<img src="https://img.shields.io/badge/Connect_on-LinkedIn-0A66C2?style=flat-square&logo=linkedin" alt="Connect on LinkedIn"/>
 </a>
 
 <a href="https://github.com/SanthoshA2003">
-<img src="https://img.shields.io/badge/Explore_my-GitHub-181717?style=flat-square&logo=github" alt="Explore my GitHub" />
+<img src="https://img.shields.io/badge/Explore_my-GitHub-181717?style=flat-square&logo=github" alt="Explore GitHub"/>
 </a>
 
 </div>
