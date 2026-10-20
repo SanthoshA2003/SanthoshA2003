@@ -28,7 +28,32 @@ I'm a Software Developer passionate about building responsive, user-friendly web
 - 📚 **Currently focused on:** Java, OOP, SQL, C# and problem-solving
 
 </td>
+<td width="33%" valign="top" align="center">
 
+## 🔗 Connect with Me
+
+
+<br/>
+
+<a href="https://www.linkedin.com/in/santhosh-alaguvel/">
+<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/SanthoshA2003">
+<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+
+<br/>
+
+**Build. Learn. Improve.**
+
+</td>
+</tr>
+</table>
+
+---
 
 ## ⚙️ Tech Stack
 
@@ -136,7 +161,7 @@ Write clean, maintainable code and solve practical programming challenges.
 
 ## 📊 Currently Learning
 
-- 🚀 Advanced C# concepts, asynchronous programming
+- 🚀 Advanced C# concepts, LINQ, Generics, and asynchronous programming
 - ⚙️ ASP.NET Core Web API development and dependency injection
 - 🔐 Authentication, authorization, JWT, and secure API design
 - 🗄️ Advanced SQL queries, joins, indexing, and query optimization
@@ -145,7 +170,7 @@ Write clean, maintainable code and solve practical programming challenges.
 - ⚡ React performance optimization, reusable components, and state management
 - 🧪 Unit testing, debugging, and writing maintainable code
 - 💻 Data structures, algorithms, and advanced problem-solving
-- 
+
 </td>
 <td width="33%" valign="top">
 
