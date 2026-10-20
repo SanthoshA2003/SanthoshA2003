@@ -7,19 +7,15 @@ I'm a Software Developer passionate about building responsive, user-friendly web
 - 💻 **Languages:** Java, JavaScript, SQL
 - 🌐 **Frontend:** React.js, HTML5, CSS3, Bootstrap
 - 🔌 **API Integration:** REST APIs, JSON
-- 🗄️ **Database:** MySQL, PostgreSQL
+- 🗄️ **Database:** MySQL
 - 🛠️ **Tools:** Git, GitHub, VS Code, Eclipse
-- 🚀 **Projects:** MyMentor, Digitracker, and web application development
+- 🚀 **Projects:** MyMentor, Digitracker, QLess, LMS and web application development
 - 📚 **Currently focused on:** Strengthening Java, OOP, SQL, and problem-solving skills
 
 ### Connect with Me
 
 - LinkedIn: https://www.linkedin.com/in/santhosh-alaguvel/
 - GitHub: https://github.com/SanthoshA2003
-
-*Build. Learn. Improve. Repeat.*
-
----
 
 ## 🛠️ Tech Stack
 
@@ -35,3 +31,9 @@ I'm a Software Developer passionate about building responsive, user-friendly web
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
 </p>
+
+
+*Build. Learn. Improve. Repeat.*
+
+---
+
