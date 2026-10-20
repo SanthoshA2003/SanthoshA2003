@@ -166,10 +166,7 @@ Write clean, maintainable code and solve practical programming challenges.
 - 🔐 Authentication, authorization, JWT, and secure API design
 - 🗄️ Advanced SQL queries, joins, indexing, and query optimization
 - 🧩 Advanced Java, OOP, Collections Framework, and exception handling
-- 🏗️ Clean Architecture, SOLID principles, and design patterns
-- ⚡ React performance optimization, reusable components, and state management
-- 🧪 Unit testing, debugging, and writing maintainable code
-- 💻 Data structures, algorithms, and advanced problem-solving
+  
 
 </td>
 <td width="33%" valign="top">
